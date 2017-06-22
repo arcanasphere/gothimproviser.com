@@ -1,0 +1,207 @@
+/* Begin gothimp_imports.scss */
+@import url("https://fonts.googleapis.com/css?family=Amatica+SC|Buda:300|Mountains+of+Christmas|New+Rocker");
+/* End gothimp_imports.scss */
+/* Begin Helpers */
+.ListTitle {
+  margin-bottom: 0;
+  padding-bottom: 0; }
+
+.ListTitle > ul, .ListTitle > ol {
+  margin-top: 0;
+  padding-top: 0; }
+
+sup.fractop {
+  vertical-align: text-top;
+  font-size: 0.65em;
+  top: 0.25em; }
+
+sub.fracbot {
+  vertical-align: text-bottom;
+  font-size: 0.65em;
+  bottom: 0.25em; }
+
+.BlueNotice {
+  color: #00f; }
+
+.DeepBlueNotice {
+  color: #0000c0; }
+
+.RedNotice {
+  color: #f00; }
+
+.DeepRedNotice {
+  color: #c00000; }
+
+.InstaSerif {
+  font-family: times, serif; }
+
+.InfoImage {
+  width: 100%;
+  text-align: center; }
+
+.sm-right, .md-right, .lg-right, .sm-left, .md-left, .lg-left {
+  text-align: center; }
+
+@media (min-width: 768px) {
+  .sm-right {
+    text-align: right; }
+
+  .sm-left {
+    text-align: left; } }
+@media (min-width: 992px) {
+  .md-right {
+    text-align: right; }
+
+  .md-left {
+    text-align: left; } }
+@media (min-width: 1170px) {
+  .lg-right {
+    text-align: right; }
+
+  .lg-left {
+    text-align: left; } }
+/* End Helpers */
+.xmas {
+  font-family: 'Mountains of Christmas', cursive; }
+
+.rocker {
+  font-family: 'New Rocker', cursive; }
+
+.amatica {
+  font-family: 'Amatica SC', cursive; }
+
+.buda {
+  font-family: 'buda', cursive; }
+
+.moody-red {
+  color: #810; }
+
+.deathkiss-red {
+  color: #920; }
+
+body {
+  background-color: #000;
+  color: #eee;
+  font-family: 'Buda', cursive; }
+
+a {
+  color: #810; }
+
+a:hover {
+  color: #920; }
+
+#TopNavigation {
+  background-color: #000;
+  border-bottom: 1px solid #810; }
+
+#TopNavigation a {
+  color: #c55;
+  background-color: #000;
+  font-weight: 900;
+  font-size: 16px; }
+
+#TopNavigation a:hover {
+  color: #a32;
+  background-color: #180000; }
+
+a.navbar-brand {
+  font-size: 20px !important; }
+
+@media screen and (max-width: 767px) {
+  #GothImprovNavBar {
+    margin-top: 60px;
+    background-color: #0c0c0c; } }
+#TopNavGothName {
+  color: #d8d8d8;
+  font-size: 22px;
+  font-weight: 900;
+  margin-right: 15px; }
+
+#BlackNumber1 {
+  background-color: #000; }
+  #BlackNumber1 h2 {
+    letter-spacing: 0.4875em; }
+  #BlackNumber1 p {
+    letter-spacing: 0.0775em; }
+
+@media screen and (min-width: 768px) {
+  #BlackNumber1 {
+    text-align: right;
+    padding-right: 4em;
+    background-image: url("/images/goth-andrew-purple3.png");
+    background-attachment: fixed;
+    background-position: left 0 top 25px;
+    background-repeat: no-repeat; } }
+h1 {
+  font-family: 'Amatica SC', cursive; }
+
+h2 {
+  font-family: 'New Rocker', cursive; }
+
+#TheFlatFields, #SilverKnives {
+  background-color: #fff;
+  color: #222; }
+
+#BlackNumber2 {
+  background-image: url("/images/let-go-bracelet.jpg");
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+  background-color: #000; }
+
+@media screen and (max-width: 768px) {
+  #BlackNumber2 {
+    display: none; } }
+#UncertainJourney {
+  background-color: #bbb;
+  color: #000; }
+  #UncertainJourney h3 {
+    font-weight: 900; }
+
+#BlackNumber3 {
+  background-image: url("/images/roses-and-candles.jpg");
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 640px;
+  background-color: #000; }
+
+@media screen and (max-width: 768px) {
+  #BlackNumber3 {
+    display: none; } }
+#SilverKnives h4 {
+  font-size: 32px;
+  font-weight: 900; }
+
+#AllThingsEnd {
+  font-family: sans-serif;
+  background-color: #eee;
+  color: #222;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #999; }
+
+h3 {
+  font-size: 52px; }
+
+img.gentle-size {
+  max-width: 100%;
+  height: auto; }
+
+.no-vertical {
+  margin-top: 0;
+  margin-bottom: 0; }
+
+/*  Fonts
+font-family: 'Mountains of Christmas', cursive;
+font-family: 'New Rocker', cursive;
+font-family: 'Amatica SC', cursive;
+font-family: 'Buda', cursive;
+*/
+/* See examples at:   https://fonts.google.com/selection?category=Display&selection.family=Amatica+SC|Buda:300|Mountains+of+Christmas|New+Rocker    */
+
+/*# sourceMappingURL=gothimp.css.map */

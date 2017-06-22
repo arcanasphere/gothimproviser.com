@@ -1,0 +1,166 @@
+body {
+  background-color: #000;
+  color: #eee;
+  font-family: 'Buda', cursive;
+}
+
+a {
+  color: $moody-red;
+}
+
+a:hover{
+  color: $deathkiss-red;
+}
+
+#TopNavigation {
+  background-color: #000;
+  border-bottom: 1px solid $moody-red;
+}
+
+#TopNavigation a {
+  color: #c55;
+  background-color: #000;
+  font-weight: 900;
+  font-size: 16px;
+}
+
+#TopNavigation a:hover {
+  color: #a32;
+  background-color: #180000;
+}
+
+a.navbar-brand {
+  font-size: 20px !important;
+}
+
+@media screen and (max-width: 767px) {
+  #GothImprovNavBar {
+    margin-top: 60px;
+    background-color: #0c0c0c;
+  }
+}
+
+#TopNavGothName {
+  color: #d8d8d8;
+  font-size: 22px;
+  font-weight: 900;
+  margin-right: 15px;
+}
+
+#BlackNumber1 {
+  background-color: #000;
+  h2 {
+    letter-spacing: 0.4875em;
+  }
+  p {
+    letter-spacing: 0.0775em;
+  }
+}
+
+@media screen and (min-width: 768px)
+{
+  #BlackNumber1 {
+    text-align: right;
+    padding-right: 4em;
+    background-image: url('/images/goth-andrew-purple3.png');
+    background-attachment: fixed;
+    background-position: left 0 top 25px;
+    background-repeat: no-repeat;
+  }
+}
+
+h1 {
+  font-family: 'Amatica SC', cursive;
+}
+
+h2 {
+  font-family: 'New Rocker', cursive;
+}
+
+#TheFlatFields, #SilverKnives {
+  background-color: #fff;
+  color: #222;
+}
+
+
+#BlackNumber2 {
+  background-image: url('/images/let-go-bracelet.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+  background-color: #000;
+}
+
+@media screen and (max-width: 768px) {
+  #BlackNumber2 {
+    display: none;
+  }
+}
+
+#UncertainJourney {
+  background-color: #bbb;
+  color: #000;
+  h3 {
+    font-weight: 900;
+  }
+}
+
+
+
+#BlackNumber3 {
+  background-image: url('/images/roses-and-candles.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 640px;
+  background-color: #000;
+}
+
+@media screen and (max-width: 768px) {
+  #BlackNumber3 {
+    display: none;
+  }
+}
+
+#SilverKnives h4 {
+  font-size: 32px;
+  font-weight: 900;
+}
+
+
+
+#AllThingsEnd {
+  font-family: sans-serif;
+  background-color: #eee;
+  color: #222;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #999;
+}
+
+h3 {
+  font-size: 52px;
+}
+
+
+img.gentle-size {
+  max-width: 100%;
+  height: auto;
+}
+
+.no-vertical {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/*  Fonts
+font-family: 'Mountains of Christmas', cursive;
+font-family: 'New Rocker', cursive;
+font-family: 'Amatica SC', cursive;
+font-family: 'Buda', cursive;
+*/
+/* See examples at:   https://fonts.google.com/selection?category=Display&selection.family=Amatica+SC|Buda:300|Mountains+of+Christmas|New+Rocker    */
