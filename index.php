@@ -37,12 +37,12 @@
           <span class="sr-only">Toggle navigation</span>
           <span id="MobileMenu" class="glyphicon glyphicon-menu-hamburger"></span>
         </button>
-        <a class="navbar-brand" href="#TheLastDayIWasHappy">Goth Improviser</a>
+        <a class="navbar-brand" href="#Home">Goth Improviser</a>
         <div id="GothImprovNavBar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li><a href="#TheFlatFields">Improv</a></li>
-              <li><a href="#UncertainJourney">Music</a></li>
-              <li><a href="#SilverKnives">Existential Crisis (FAQ)</a></li>
+              <li><a href="#Improv">Improv</a></li>
+              <li><a href="#Music">Music</a></li>
+              <li><a href="#FAQ">Existential Crisis (FAQ)</a></li>
             </ul>
             <ul class="nav navbar-right hidden-xs" id="TopNavGothName">
               <li>Andrew M. Johnston</li>
@@ -55,7 +55,7 @@
 
 
   <div class="jumbotron fixedbg no-vertical" id="BlackNumber1">
-    <div class="container-fluid" id="TheLastDayIWasHappy">
+    <div class="container-fluid" id="Home">
       <div class="row">
         <div class="col-xs-12">
           <h1>Andrew M. Johnston</h1>
@@ -68,7 +68,7 @@
 
 
 
-  <div class="jumbotron no-vertical" id="TheFlatFields">
+  <div class="jumbotron no-vertical" id="Improv">
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12">
@@ -94,7 +94,7 @@
   </div>
 
 
-  <div class="jumbotron no-vertical" id="UncertainJourney">
+  <div class="jumbotron no-vertical" id="Music">
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12">
@@ -115,7 +115,7 @@
   <div class="jumbotron fixedbg no-vertical" id="BlackNumber3">
   </div>
 
-  <div class="jumbotron no-vertical" id="SilverKnives">
+  <div class="jumbotron no-vertical" id="FAQ">
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12">
@@ -130,8 +130,8 @@
           <div class="row">
             <div class="col-sm-6 text-center">
               <h4 class="rocker">FaceBook</h4>
-              <p><b><a href="https://facebook.com/candyvampires">Candy Vampires</a></b></p>
-              <p><b><a href="https://www.facebook.com/arcanasphere-music">Arcanasphere</a></b></p>
+              <p><b><a href="https://facebook.com/candyvampires" target="_blank">Candy Vampires</a></b></p>
+              <p><b><a href="https://www.facebook.com/arcanasphere-music" target="_blank">Arcanasphere</a></b></p>
             </div>
             <div class="col-sm-6 text-center">
               <h4 class="rocker">Voice Mail</h4>

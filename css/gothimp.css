@@ -138,7 +138,7 @@ h1 {
 h2 {
   font-family: 'New Rocker', cursive; }
 
-#TheFlatFields, #SilverKnives {
+#Improv, #FAQ {
   background-color: #fff;
   color: #222; }
 
@@ -154,10 +154,10 @@ h2 {
 @media screen and (max-width: 768px) {
   #BlackNumber2 {
     display: none; } }
-#UncertainJourney {
+#Music {
   background-color: #bbb;
   color: #000; }
-  #UncertainJourney h3 {
+  #Music h3 {
     font-weight: 900; }
 
 #BlackNumber3 {
@@ -172,7 +172,7 @@ h2 {
 @media screen and (max-width: 768px) {
   #BlackNumber3 {
     display: none; } }
-#SilverKnives h4 {
+#FAQ h4 {
   font-size: 32px;
   font-weight: 900; }
 
